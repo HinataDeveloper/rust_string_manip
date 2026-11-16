@@ -1,2 +1,3 @@
-# rust_string_manip
-String manipulation in Rust language
+# String Manipulation in Rust Programming Language.
+
+## String manipulation in Rust language
